@@ -21,3 +21,6 @@ We conduct a hypothesis test at a 5% significance level, a commonly accepted thr
 
 ## Tools & Approach
 This project is implemented in R, utilizing statistical tests to evaluate the hypothesis and determine whether gender-based premium pricing is justified. The findings contribute to the ongoing discussion on fairness in health insurance policies.
+
+## About  
+This project was completed as part of **STAT 201 (Elementary Statistics)**. It investigates whether gender should influence health insurance premiums by analyzing medical cost data and conducting hypothesis testing in R. Using statistical inference methods, the project explores if men or women incur higher healthcare costs on average.
